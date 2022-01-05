@@ -1,0 +1,1 @@
+{"version":3,"sources":["menu.js"],"names":["document","getElementById"],"mappings":"AAAAA,SAAAC,eAAA","file":"../../js/all.js","sourcesContent":["var burger = document.getElementById('burger');"]}
